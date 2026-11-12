@@ -1,5 +1,3 @@
-<sub><b>EN</b> · <a href="https://github.com/k8r4a7n2fg23k/k8r4a7n2fg23k/blob/main/README.ru.md">RU</a></sub>
-
 ### Hi, I'm Alena
 
 Senior backend engineer, 6+ years in production. I build Python services that sit between many systems: event pipelines, workflow engines, and the backend behind LLM features.
